@@ -15,14 +15,22 @@ Players create standard 3rd-level characters with max health. They will be trans
 
 1. **Fighter → German Shepherd**
    - Ability: Iron Jaw (advantage on strength checks with mouth)
+   - D8 damage
+   - Weaknesses: treats
 2. **Wizard → Poodle**
    - Ability: Arcane Bark (can use minor magical effects by barking)
+   - D4 damage
+   - Weaknesses: afraid of alpha
 3. **Rogue → Border Collie**
    - Ability: Shadow Paws (advantage on stealth, can squeeze through small spaces)
+   - D6 melee damage
+   - Weaknesses: 
 4. **Cleric → St. Bernard**
-   - Ability: Healing Lick (can use a weaker version of Cure Wounds)
+   - Ability: Healing Lick (D4)
+   - D4 damage
 5. **Ranger → Bloodhound**
    - Ability: Tracker's Nose (advantage on tracking and scent-based investigation)
+   - D6 damage
 6. **Barbarian → Rottweiler**
    - Ability: Furious Growl (can enter a canine version of Rage)
 
@@ -46,13 +54,36 @@ A small, picturesque town surrounded by dense forests. Recently, strange occurre
   * Squeeze through narrow gaps (Shadow Paws)
   * Sniff out hidden release mechanisms (Tracker's Nose)
 
-#### Scene 2: The Enchanted Garden
-- Navigate through Dr. Thornwood's magical indoor garden
-- Challenges:
-  * Avoid animated plant guardians
-  * Find and dig up a hidden key
-  * Resist the temptation of magical dog treats that cause temporary paralysis
-- Discovery: A vial of temporary reversal potion (allows 10 minutes in human form per dose, 3 doses total)
+Scene 2: The Enchanted Garden
+
+Players enter Dr. Thornwood's magical indoor garden, filled with overgrown, semi-sentient plants
+Central Challenge: The Scent Maze
+
+A large, living hedge maze blocks the path to freedom
+Walls shift periodically, making traditional navigation impossible
+Players must mark their path by peeing on the hedge walls
+
+Require Constitution checks to "recharge" marking ability
+Failed checks result in temporary dehydration (disadvantage on physical tasks)
+
+
+Alternative: Digging under the maze
+
+Requires group Strength checks to burrow
+Risk: Disturbing underground mushrooms release confusion spores
+(Wisdom saves to avoid temporary disorientation)
+
+
+
+
+Additional Challenges:
+
+Avoid animated vine creatures guarding the maze
+Find and dig up a hidden key needed for the exit door
+Resist the temptation of magical dog treats that cause temporary paralysis
+
+
+Discovery: A vial of temporary reversal potion (allows 10 minutes in human form per dose, 3 doses total)
 
 ### Act 2: Town Investigation
 
